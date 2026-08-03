@@ -51,23 +51,4 @@ Career Goal:
   <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,django,mysql,git,github,vscode,linux,tensorflow,opencv,arduino&perline=8" />
 </p>
   
-## 🚀 Featured Projects
 
-<p align="center">
-
-<a href="https://github.com/Blessonjoseph07/AuraERP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Blessonjoseph07&repo=AuraERP&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-<a href="https://github.com/Blessonjoseph07/subscription-emulator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Blessonjoseph07&repo=subscription-emulator&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-<a href="https://github.com/Blessonjoseph07/Student-Task-Manager-Android-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Blessonjoseph07&repo=Student-Task-Manager-Android-app&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-</p>
