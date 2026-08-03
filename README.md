@@ -23,12 +23,33 @@
 
 
 
-## 🚀 About Me
+
+## 🌌 About Me
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,django,mysql,git,github,vscode,linux,tensorflow,opencv,arduino&perline=8" />
+</p>
 
 ```yaml
-Name: Blesson Joseph 
+Name: Blesson Joseph Byju
+
+Education: Master of Computer Applications (MCA)
+
 Location: Kerala, India 🇮🇳
-Focus: AI • IoT • Full Stack Development
-Learning: Machine Learning & Cloud
-Goal: Software Engineer
+
+Interests:
+  - Artificial Intelligence
+  - Full Stack Development
+  - Internet of Things (IoT)
+  - Machine Learning
+
+Currently Learning:
+  - Machine Learning
+  - Cloud Computing
+  - System Design
+
+Career Goal:
+  Software Engineer focused on building scalable and impactful solutions.
+
 ```
