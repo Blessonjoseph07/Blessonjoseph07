@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Blesson Joseph Byju</h1>
+
+<h3 align="center">
+AI • Full Stack • IoT • Machine Learning
+</h3>
+
+<p align="center">
+Building real-world software that combines AI, IoT, and Full Stack Development.
+
 
 <!--
 **Blessonjoseph07/Blessonjoseph07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
