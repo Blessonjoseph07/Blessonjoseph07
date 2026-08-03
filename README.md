@@ -51,10 +51,18 @@ Career Goal:
   <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,django,mysql,git,github,vscode,linux,tensorflow,opencv,arduino&perline=8" />
 </p>
 
-  ## 🐍 Contribution Snake
-
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Blessonjoseph07/Blessonjoseph07/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blessonjoseph07&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Blessonjoseph07&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
 </p>
