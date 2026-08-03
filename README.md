@@ -34,8 +34,6 @@
 ```yaml
 Name: Blesson Joseph Byju
 
-Education: Master of Computer Applications (MCA)
-
 Location: Kerala, India 🇮🇳
 
 Interests:
