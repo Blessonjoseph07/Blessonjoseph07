@@ -25,12 +25,6 @@
 
 
 ## 🌌 About Me
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,django,mysql,git,github,vscode,linux,tensorflow,opencv,arduino&perline=8" />
-</p>
-
 ```yaml
 Name: Blesson Joseph Byju
 
@@ -51,3 +45,8 @@ Career Goal:
   Software Engineer focused on building scalable and impactful solutions.
 
 ```
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,django,mysql,git,github,vscode,linux,tensorflow,opencv,arduino&perline=8" />
+</p>
