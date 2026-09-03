@@ -1,4 +1,5 @@
-  <p align="center">
+
+ <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=6f42c1&text=Blesson%20Joseph%20Byju&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20•%20IoT%20•%20Full%20Stack%20Developer&descAlignY=58"/>
 </p>
 
